@@ -2,6 +2,6 @@
 
 <p align="center">
   <img src="cricketer.png" alt="Image 1" align="left" width="300px">
-  <img src="b/w_cricketer.png" alt="Image 2" align="right" width="300px">
+  <img src="b:w_cricketer.png" alt="Image 2" align="right" width="300px">
 </p>
   
