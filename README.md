@@ -1,7 +1,7 @@
 # Downloading-100-images-and-converting-it-in-B-W
 
 Colorfull image
-<p align="left">
+<p width="200" align="left">
   <img src="cricketer.png" alt="Alt Text"
        </p>
   B/W image
